@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
