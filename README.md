@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
