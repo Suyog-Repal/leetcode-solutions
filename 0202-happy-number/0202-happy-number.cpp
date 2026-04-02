@@ -11,11 +11,12 @@ public:
     }
     bool isHappy(int n) {
           int slow = n; 
-          int fast = getNext(n); 
-          while(fast != 1 && slow != fast){
-             slow = getNext(slow); 
-             fast = getNext(getNext(fast)); 
-
+          int fast =n; 
+          while(fast != 1 ){
+             slow = getNext(slow);  // moving by 1 step; 
+             fast = getNext(getNext(fast));  // moving by 2 steps
+             if(fast == 1) return true; 
+             if(slow == fast) return false; 
           }
           return fast == 1; 
     }
