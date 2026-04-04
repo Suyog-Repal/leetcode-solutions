@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -69,5 +70,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
