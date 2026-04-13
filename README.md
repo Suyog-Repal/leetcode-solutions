@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
