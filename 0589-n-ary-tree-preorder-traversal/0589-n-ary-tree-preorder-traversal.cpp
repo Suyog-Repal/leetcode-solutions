@@ -23,8 +23,6 @@ public:
     void helper(Node* root, vector<int>& result){
         if(root == NULL) return; 
         result.push_back(root->val); 
-       // helper(root->left, result); 
-        //helper(root->right, result);
         for(Node* child: root->children){
             helper(child, result); 
         }
