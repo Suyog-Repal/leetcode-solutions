@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Linked List
