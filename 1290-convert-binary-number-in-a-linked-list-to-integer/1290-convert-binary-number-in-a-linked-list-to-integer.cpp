@@ -16,7 +16,6 @@ public:
           while(curr){
             x++; 
             curr= curr->next; 
-            
           }
           int ans = 0; 
           curr = head; 
@@ -24,7 +23,6 @@ public:
              x--;
             ans += (curr->val)*(1 << x);
             curr=  curr->next;  
-            
           }
           return ans; 
     }
