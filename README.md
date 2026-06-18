@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
