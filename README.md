@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Monotonic Stack
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
