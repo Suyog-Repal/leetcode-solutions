@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 ## Recursion
 |  |
@@ -238,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
