@@ -13,7 +13,7 @@ public:
                     temp.push_back(1); 
                 }
             }
-            reverse(temp.begin(), temp.end()); 
+           reverse(temp.begin(), temp.end()); 
            ans.push_back(temp); 
         }
         return ans; 
