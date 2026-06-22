@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 ## Sliding Window
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
 |  |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Design
 |  |
 | ------- |
