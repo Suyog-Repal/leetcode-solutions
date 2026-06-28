@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1672-richest-customer-wealth](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
@@ -260,8 +261,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Greedy
+|  |
+| ------- |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 <!---LeetCode Topics End-->
