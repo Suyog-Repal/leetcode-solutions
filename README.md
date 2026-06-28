@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
