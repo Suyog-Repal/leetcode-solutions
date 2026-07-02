@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0626-exchange-seats](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1148-article-views-i) |
