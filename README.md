@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
