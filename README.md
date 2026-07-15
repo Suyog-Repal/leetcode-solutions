@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -328,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
