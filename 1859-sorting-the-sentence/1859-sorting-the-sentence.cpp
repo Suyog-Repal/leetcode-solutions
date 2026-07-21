@@ -20,9 +20,9 @@ public:
         }
         string ans = ""; 
         for(auto&p: mp){
-            ans += p.second + ' ';
+            ans+=p.second + ' ';
         }
-        ans.pop_back(); 
+        ans.pop_back();
         return ans; 
     }
 };
