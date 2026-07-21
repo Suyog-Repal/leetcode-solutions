@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2490-circular-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2490-circular-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
