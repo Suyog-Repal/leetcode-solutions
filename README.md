@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
