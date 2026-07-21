@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0118-pascals-triangle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
