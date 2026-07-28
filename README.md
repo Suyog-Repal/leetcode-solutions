@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2490-circular-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2490-circular-sentence/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
