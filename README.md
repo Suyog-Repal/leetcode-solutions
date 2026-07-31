@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -346,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
