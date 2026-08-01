@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
