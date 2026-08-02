@@ -12,8 +12,8 @@ public:
         reverse(a.begin(), a.end());
         int k =0;
         for(int i=0; i<n;i++){
-            
-            if(tolower(s[i]) == 'i'|| tolower(s[i])=='a' || tolower(s[i]) == 'e'|| tolower(s[i])=='o' || tolower(s[i]) == 'u'){
+            char t = tolower(s[i]);
+            if(t == 'i'||  t=='a' || t== 'e'|| t=='o' || t == 'u'){
                 s[i] = a[k];
                 k++;
             }
