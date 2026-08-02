@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
