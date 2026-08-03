@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2490-circular-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2490-circular-sentence/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
+| [2678-number-of-senior-citizens](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/3033-modify-the-matrix) |
