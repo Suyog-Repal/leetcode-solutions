@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3798-largest-even-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
