@@ -11,12 +11,10 @@ public:
         }
         stringstream ss(para); 
         string word; 
+        unordered_set<string> st(banned.begin(), banned.end()); 
         while(ss >> word){
-             
-           freq[word]++; 
-           for(string s: banned){
-            if(word == s) freq[word] = 0;
-           }
+          if(st.count(word)) continue;
+          freq[word]++;
         }
         int maxi = 0;
         string ans; 
