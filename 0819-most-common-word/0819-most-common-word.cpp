@@ -9,7 +9,6 @@ public:
             }else
             para+= tolower(c);
         }
-        cout << para << endl; 
         stringstream ss(para); 
         string word; 
         while(ss >> word){
