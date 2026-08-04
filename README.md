@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1507-reformat-date](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1544-make-the-string-great](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
