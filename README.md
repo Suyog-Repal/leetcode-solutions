@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1544-make-the-string-great](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
