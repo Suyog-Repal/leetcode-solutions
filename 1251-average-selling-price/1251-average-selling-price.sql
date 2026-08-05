@@ -1,0 +1,10 @@
+with cte as(
+select p.product_id,  start_date, end_date, price, u.purchase_date, units
+from Prices p
+left join UnitsSold u
+on p.product_id = u.product_id AND purchase_date between start_date and end_date
+)
+select product_id, ifnull(round(sum(price*units)/sum(units), 2), 0) as average_price
+from cte
+group by product_id;
+
