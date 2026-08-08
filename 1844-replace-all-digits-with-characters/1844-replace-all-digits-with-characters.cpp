@@ -10,7 +10,6 @@ public:
             if(isalpha(s[i])) ans += s[i];
             if(isdigit(s[i])) ans += shift(s[i-1], s[i]-'0'); 
         }
-        cout << ans << endl; 
         return ans;
     }
 };
