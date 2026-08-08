@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1859-sorting-the-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
