@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0819-most-common-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
