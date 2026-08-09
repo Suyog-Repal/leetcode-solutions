@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
