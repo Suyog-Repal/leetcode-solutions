@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2810-faulty-keyboard](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
+| [3136-valid-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3136-valid-word/) | Easy |
 | [3174-clear-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3798-largest-even-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3798-largest-even-number/) | Easy |
