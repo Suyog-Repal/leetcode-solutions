@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2788-split-strings-by-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3136-valid-word/) | Easy |
 | [3174-clear-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2788-split-strings-by-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3033-modify-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/3033-modify-the-matrix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -472,8 +474,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
