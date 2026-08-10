@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -499,4 +501,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
