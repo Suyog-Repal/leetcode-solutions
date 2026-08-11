@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-consecutive-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1507-reformat-date](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1544-make-the-string-great](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1556-thousand-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1556-thousand-separator/) | Easy |
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
