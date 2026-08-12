@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0830-positions-of-large-groups](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
