@@ -11,9 +11,7 @@ public:
                    count++;
                 }else break; 
             }
-           // cout << count << endl;
             if(count>=3){
-                cout << i << endl;
               temp.push_back(i);
               temp.push_back(i+count-1);
               i +=count-1;
