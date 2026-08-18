@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2678-number-of-senior-citizens](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
