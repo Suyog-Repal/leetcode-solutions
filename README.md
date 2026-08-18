@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1025-divisor-game](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -549,4 +550,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->
