@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
