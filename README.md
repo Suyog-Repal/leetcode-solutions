@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2678-number-of-senior-citizens](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3033-modify-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 ## Simulation
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
