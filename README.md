@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [3033-modify-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/3033-modify-the-matrix) |
