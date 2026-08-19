@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1154-day-of-the-year](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1025-divisor-game](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1154-day-of-the-year](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
