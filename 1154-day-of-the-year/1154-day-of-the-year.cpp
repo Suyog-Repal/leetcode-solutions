@@ -5,7 +5,7 @@ public:
 
         
         int year = stoi(date.substr(0, 4)); 
-          if(year%400==0 || (year%4==0 && year%100 !=0)){
+          if(year%400==0 || (year%100 !=0 && year%4==0)){
             months[1] = 29;
         }else months[1] = 28;
     
