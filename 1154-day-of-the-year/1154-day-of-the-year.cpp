@@ -8,8 +8,7 @@ public:
           if(year%400==0 || (year%4==0 && year%100 !=0)){
             months[1] = 29;
         }else months[1] = 28;
-        cout << year<<endl; 
-        cout << months[1] << endl;
+    
         int month = stoi(date.substr(5,2)); 
         int day = stoi(date.substr(8,2));
       
@@ -19,8 +18,7 @@ public:
          prefix[i] = prefix[i-1]+months[i-1];
         }
         int ans = 0;
-        cout << prefix[month-1] << endl; 
-        cout << day << endl; 
+     
         ans += prefix[month-1] + day; 
         
         return ans; 
