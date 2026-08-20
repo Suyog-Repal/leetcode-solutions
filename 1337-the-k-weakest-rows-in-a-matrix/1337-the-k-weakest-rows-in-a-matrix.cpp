@@ -10,15 +10,14 @@ public:
               if(mat[i][j] ==1){
                 count++; 
               }
-
             }
             mp[i] = count; 
         }
         vector<pair<int, int>> v(mp.begin(), mp.end()); 
         sort(v.begin(), v.end(), [](const pair<int, int>&a, const pair<int, int>&b){
-            if(a.second != b.second){
-                return a.second < b.second;
-            }else return  a.first < b.first;
+             if(a.second != b.second){
+                return a.second < b.second; 
+             }else return  a.first < b.first;
         });
         vector<int> result; 
         for(auto &p: v){
