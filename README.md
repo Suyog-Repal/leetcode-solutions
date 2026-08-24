@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3033-modify-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -519,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Queue
