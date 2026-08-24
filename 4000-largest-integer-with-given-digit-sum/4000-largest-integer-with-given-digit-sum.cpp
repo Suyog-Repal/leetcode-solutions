@@ -15,10 +15,9 @@ public:
       int maxi = -1;
        for(int i=x-1; i>=0;i--){
           if(digitsum(i) == s){
-            maxi = max(maxi, i);
-            break; 
+            return i; 
           }
        }
-       return maxi; 
+       return -1; 
     }
 };
