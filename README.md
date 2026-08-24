@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
