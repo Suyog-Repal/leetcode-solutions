@@ -16,11 +16,10 @@ public:
              temp.push_back(ans); 
            }else continue;
         }
-vector<pair<string, int>> str; 
-
-for(int i = 0; i < temp.size(); i++){
-    str.push_back({temp[i], temp[i].size()});
-}
+   vector<pair<string, int>> str; 
+   for(int i=0;i<temp.size(); i++){
+     str.push_back({temp[i], temp[i].size()}); 
+   }
       sort(str.begin(), str.end(), [](const pair<string, int> &a, const pair<string, int> &b){
          if(a.second != b.second){
           return   a.second < b.second; 
