@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
