@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3959-check-good-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
