@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -563,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -596,8 +599,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1175-prime-arrangements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
