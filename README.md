@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0260-single-number-iii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Segment Tree
