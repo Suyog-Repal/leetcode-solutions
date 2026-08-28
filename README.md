@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0047-permutations-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -616,4 +618,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
