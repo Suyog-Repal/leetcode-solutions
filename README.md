@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
