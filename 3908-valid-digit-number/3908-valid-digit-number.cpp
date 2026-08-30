@@ -12,7 +12,7 @@ public:
                 count++; 
             }
         }
-        if(s[0]-'0' != x && count >= 1) return true;
+        if( count >= 1) return true;
         return false;
     }
 };
