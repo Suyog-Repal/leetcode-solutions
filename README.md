@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -592,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
