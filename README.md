@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -645,4 +648,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
