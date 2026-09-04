@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
