@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-thousand-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1556-thousand-separator/) | Easy |
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -558,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
