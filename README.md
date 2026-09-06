@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -537,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0912-sort-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
