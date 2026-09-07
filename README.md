@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0409-longest-palindrome](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
