@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -572,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
