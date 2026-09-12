@@ -1,5 +1,4 @@
-select p.product_name, s.year, s.price
-from  Sales s
-left join Product p
-on s.product_id = p.product_id
-order by p.product_name asc; 
+select product_name, year, price
+from Product p
+right join Sales s
+on p.product_id = s.product_id
