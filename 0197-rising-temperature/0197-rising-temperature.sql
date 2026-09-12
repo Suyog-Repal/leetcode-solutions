@@ -1,5 +1,5 @@
 select w1.id as Id
 from Weather w1
-inner join Weather w2
-on DATEDIFF(w1.recordDate, w2.recordDate) =1
+inner join weather w2
+on DATEDIFF(w1.recordDate, w2.recordDate) = 1
 where w1.temperature > w2.temperature;
