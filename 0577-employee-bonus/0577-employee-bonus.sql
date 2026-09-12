@@ -1,6 +1,5 @@
-select e.name, b.bonus
-from employee e
-left join bonus b
+select name, b.bonus as bonus
+from Employee e
+left join Bonus b
 on e.empId = b.empId
-where bonus < 1000 or bonus is NULL
-order by e.name; 
+where b.bonus <1000 or b.bonus is null;
