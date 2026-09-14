@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0596-classes-with-at-least-5-students](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0619-biggest-single-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
