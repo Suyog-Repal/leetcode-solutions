@@ -1,6 +1,9 @@
-select employee_id, 
- (case when count(employee_id) = 1 then max(department_id)
-      when count(employee_id) > 1 then max( case when primary_flag = 'Y' then department_id end) 
-      end ) as department_id
-from Employee
-group by employee_id;
+select distinct employee_id, department_id
+from Employee 
+where employee_id in(
+    select distinct employee_id
+    from Employee
+    group by employee_id
+    having count(*) = 1
+) or primary_flag = 'Y'
+order by employee_id;
