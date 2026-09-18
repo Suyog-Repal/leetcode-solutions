@@ -1,20 +1,11 @@
-with cte as (
-  select requester_id as c1
+with cte as(
+    select  requester_id from RequestAccepted
+    union all
+    select accepter_id as requester_id
     from RequestAccepted
-
-union all 
-select accepter_id as c1
-from RequestAccepted 
 )
-   select c1 as id, count(c1) as num
-from cte 
-group by c1
+select requester_id as id, count(*) as num
+from cte
+group by requester_id
 order by num desc
-limit 1;
-
-
-
-
-
-
-    
+limit 1; 
