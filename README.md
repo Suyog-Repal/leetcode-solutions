@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3136-valid-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3136-valid-word/) | Easy |
 | [3174-clear-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3798-largest-even-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Sliding Window
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3174-clear-digits](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3959-check-good-integer](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Recursion
