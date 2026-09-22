@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
