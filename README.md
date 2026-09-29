@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1934-confirmation-rate](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3554-find-category-recommendation-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
