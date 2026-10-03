@@ -14,7 +14,7 @@ with cte as (
     on c1.product_id = c2.product_id 
  )
 , cte3 as (
-     select season, category, sum(quantity) as total_quantity, sum(revenue) as total_revenue, dense_rank() over (partition by season order by sum(quantity) desc, sum(revenue) desc, category asc) as category_rank 
+    select season, category, sum(quantity) as total_quantity, sum(revenue) as total_revenue, dense_rank() over (partition by season order by sum(quantity) desc, sum(revenue) desc, category asc) as category_rank 
  from cte2 
  group by season, category
 )
