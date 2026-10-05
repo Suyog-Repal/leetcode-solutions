@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1089-duplicate-zeros/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
