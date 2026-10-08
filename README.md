@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3554-find-category-recommendation-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3564-seasonal-sales-analysis](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
+| [3580-find-consistently-improving-employees](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3580-find-consistently-improving-employees/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
