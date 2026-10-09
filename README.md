@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1446-consecutive-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1507-reformat-date](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
