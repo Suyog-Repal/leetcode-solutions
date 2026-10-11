@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2643-row-with-maximum-ones](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
