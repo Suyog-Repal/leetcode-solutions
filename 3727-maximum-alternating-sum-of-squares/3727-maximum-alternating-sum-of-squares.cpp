@@ -31,18 +31,6 @@ public:
                 i++;
             }
         }
-        // reverse(store.begin(), store.end());
-
-        /*   while(next_permutation(nums.begin(), nums.end())){
-              long long sum = 0;
-                    for(int i=0; i<n; i+=2){
-            if(i<n)  sum+= nums[i]*nums[i];
-          }
-          for(int i= 1; i<n; i+=2){
-            if(i<n)  sum-= nums[i]*nums[i];
-          }
-          maxi = max(maxi, sum);
-           }*/
         for (int x : store)
             cout << x << '\n';
         for (int p = 1; p < n; p += 2) {
