@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
