@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1837-sum-of-digits-in-base-k](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Suyog-Repal/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
