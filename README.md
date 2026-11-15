@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Suyog-Repal/leetcode-solutions/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
